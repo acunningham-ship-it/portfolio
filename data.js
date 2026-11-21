@@ -19,10 +19,12 @@ window.SITE = {
     { "head": "Video editing" },
     { "heading": "Short-form edits", "body": "Vertical clips: finding the moment in a long video, cutting it so it lands as one thought, and adding captions and motion graphics. Edited with my AI pipeline; every cut is QA'd before delivery.", "videos": [
       { "file": "fp-a2.mp4", "poster": "fp-a2.jpg", "label": "First Press podcast: 18.7 seconds cut from an episode over 41 minutes long, word-by-word captions." },
+      { "file": "fp-afterexit.mp4", "poster": "fp-afterexit.jpg", "label": "First Press podcast: 20.3 seconds built from two moments of the same 41-minute episode, notes on screen, word-by-word captions." },
       { "file": "mx-1.mp4", "poster": "mx-1.jpg", "label": "MilkXP: 17.7 seconds cut from a video just under 6.5 minutes long, hook on the first frame." },
+      { "file": "mr-1.mp4", "poster": "mr-1.jpg", "label": "Metaphor: ReFantazio: 15.1 seconds cut from a trailer just under a minute long, widescreen footage on a blurred vertical fill, word-by-word captions." },
       { "file": "ht-aieditor.mp4", "poster": "ht-aieditor.jpg", "label": "HamTek: the AI editor I built, with motion graphics and animated captions." },
       { "file": "ht-website.mp4", "poster": "ht-website.jpg", "label": "HamTek: a website editor I built, with motion graphics." }
-     ], "note": "The First Press and MilkXP clips were made for public clipping campaigns, not for clients. The footage is theirs." },
+     ], "note": "The First Press, MilkXP and Metaphor: ReFantazio clips were made for public clipping campaigns, not for clients. The footage is theirs." },
     { "head": "Certifications" },
     { "heading": "Adobe certifications", "sub": "Adobe Certified Professional", "body": "8 credentials. Each certificate has a code you can check at verify.certiport.com.\nVisual Design Using Adobe Photoshop · December 9, 2025\nMultiplatform Animation Using Adobe Animate · December 11, 2025\nDigital Video Using Adobe Premiere Pro · December 19, 2025\nVideo Design · December 19, 2025\nPrint & Digital Media Publication Using Adobe InDesign · January 9, 2026\nVisual Design · January 9, 2026\nContent Creation and Marketing Using Adobe Express · May 27, 2026\nMarketing Design · May 27, 2026", "link": { "url": "https://verify.certiport.com", "label": "Verify a code" }, "images": ["cert-photoshop.jpg", "cert-animate.jpg", "cert-premiere.jpg", "cert-video-design.jpg", "cert-indesign.jpg", "cert-visual-design.jpg", "cert-express.jpg", "cert-marketing-design.jpg"] }
    ]
